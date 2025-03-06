@@ -1,1 +1,1 @@
-# Arkusze_INF04
+# Zbiór arkuszy z praktycznej części egzaminu zawodowego w kwalifikacji INF.04
