@@ -50,8 +50,12 @@
 
 ##### Rok 2026
 
- 	styczeń zad 1 - aplikacja mobilna (Gra w kości v2)
-	styczeń zad 2 - aplikacja mobilna (Quiz)
+ 	styczeń zad 1 - aplikacja mobilna (Gra w kości v2), konsola (Kosci),testy jednostkowe
+	styczeń zad 2 - aplikacja mobilna (Quiz), konsola (Pytanie),testy (ręcznie) i dokumentacja
+
+&#x09;czerwiec zad 1 - aplikacja webowa (Menedżer haseł), konsola (generowanie hasła),dokumentacja
+
+&#x09;czerwiec zad 2 - aplikacja konsolowa (Aplikacja notatki - ListView), konsola (Notatki), dokumentacja
 
 
 
