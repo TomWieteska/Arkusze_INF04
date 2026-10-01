@@ -55,7 +55,7 @@
 
 &#x09;czerwiec zad 1 - aplikacja webowa (Menedżer haseł), konsola (generowanie hasła),dokumentacja
 
-&#x09;czerwiec zad 2 - aplikacja konsolowa (Aplikacja notatki - ListView), konsola (Notatki), dokumentacja
+&#x09;czerwiec zad 2 - aplikacja mobilna (Aplikacja notatki - ListView), konsola (Notatki), dokumentacja
 
 
 
